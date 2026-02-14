@@ -1,7 +1,6 @@
 # Grab-That-Banner
 A tool that grabs a web server banner
 
-<img width="1917" height="755" alt="imagem" src="https://github.com/user-attachments/assets/26c90821-d5b4-4e09-bc69-e6d8f835f1d8" />
-
+<img width="1906" height="513" alt="image" src="https://github.com/user-attachments/assets/267cd591-278e-463a-970d-f0f331f5abb9" />
 
 Usage: python3 grab_that_ban.py "domain" [port] | Can also parse the output to a file
