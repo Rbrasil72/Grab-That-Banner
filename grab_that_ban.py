@@ -11,7 +11,7 @@
 # Date created: 13/02/2026
 # Last Revision: 13/02/2026
 
-# Purpose: This script asks for a IP\Domain and a port (default is 80) and outputs information about it
+# Purpose: This script asks for a IP\Domain and a port (default is 80) and outputs it's banner
 
 import socket
 import ssl
